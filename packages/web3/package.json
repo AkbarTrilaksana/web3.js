@@ -57,7 +57,7 @@
         "web3-eth-personal": "1.7.5",
         "web3-net": "1.7.5",
         "web3-shh": "1.7.5",
-        "web3-utils": "1.7.5"
+        "web3-utils": "4.2.1"
     },
     "devDependencies": {
         "@types/node": "^12.12.6",
